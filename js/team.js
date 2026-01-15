@@ -157,60 +157,60 @@ const TVdatas = {
             img: '../img/team/TM_0213.webp',
             name: '后羿',
             id: 'no.0213',
-            src: '../html/team member/TM_0213.html'
+            src: '../html/team_member/TM_0213.html'
         },
         {
             img: '../img/team/TM_0215.webp',
             name: '刑天',
             id: 'no.0215',
-            src: '../html/team member/TM_0215.html'
+            src: '../html/team_member/TM_0215.html'
         },
         {
             img: '../img/team/TM_0216.webp',
             name: '神农',
             id: 'no.0216',
-            src: '../html/team member/TM_0216.html'
+            src: '../html/team_member/TM_0216.html'
         },
         {
             img: '../img/team/TM_0217.webp',
             name: '庄周',
             id: 'no.0217',
-            src: '../html/team member/TM_0217.html'
+            src: '../html/team_member/TM_0217.html'
         }, {
             img: '../img/team/TM_0218.webp',
             name: '精卫',
             id: 'no.0218',
-            src: '../html/team member/TM_0218.html'
+            src: '../html/team_member/TM_0218.html'
         }, {
             img: '../img/team/TM_0219.webp',
             name: '哪吒',
             id: 'no.0219',
-            src: '../html/team member/TM_0219.html'
+            src: '../html/team_member/TM_0219.html'
         }, {
             img: '../img/team/TM_0220.webp',
             name: '杨戬',
             id: 'no.0220',
-            src: '../html/team member/TM_0220.html'
+            src: '../html/team_member/TM_0220.html'
         }, {
             img: '../img/team/TM_0221.webp',
             name: '祝融',
             id: 'no.0221',
-            src: '../html/team member/TM_0221.html'
+            src: '../html/team_member/TM_0221.html'
         }, {
             img: '../img/team/TM_0222.webp',
             name: '共工',
             id: 'no.0222',
-            src: '../html/team member/TM_0222.html'
+            src: '../html/team_member/TM_0222.html'
         }, {
             img: '../img/team/TM_0223.webp',
             name: '炎帝',
             id: 'no.0223',
-            src: '../html/team member/TM_0223.html'
+            src: '../html/team_member/TM_0223.html'
         }, {
             img: '../img/team/TM_0224.webp',
             name: '风伯',
             id: 'no.0224',
-            src: '../html/team member/TM_0224.html'
+            src: '../html/team_member/TM_0224.html'
         },
     ],
     changedata: function () {
